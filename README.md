@@ -1,6 +1,6 @@
 # QR Code Generator
    The QR Code Generator project is a user-friendly application built with Python's Tkinter library. It allows users to easily create customized QR codes for text, URLs, or other data.
-## Key Features
+# Key Features
 ## 1). Interactive GUI:
    The application features an intuitive graphical user interface created using Tkinter. Users can input their data, adjust settings, and generate QR codes without needing to write any code.
 ## 2). Data Input Options:
