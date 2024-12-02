@@ -24,7 +24,7 @@ The project runs seamlessly on Windows, macOS, and Linux systems as long as Pyth
    b). Buttons to trigger QR code generation and save functions.
    
    c). Canvas or Label widget to display the QR code within the GUI.
-## Workflow
+# Workflow
    a). The user launches the application.
    
    b). Inputs data into a text box.
